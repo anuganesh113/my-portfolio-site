@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               <ul>
                 <li style={{ listStyle: "none" }}>
-                  🚀 Front-End Enthusiast with over 2 years of hands-on
+                  🚀 Front-End Enthusiast with over 3 years of hands-on
                   experience
                 </li>
                 <li style={{ listStyle: "none" }}>
